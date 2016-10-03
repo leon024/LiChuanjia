@@ -1,0 +1,35 @@
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.dll
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.pdb
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.dll
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.pdb
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master - 副本\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.dll
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master - 副本\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.pdb
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master - 副本\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master - 副本\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.dll
+C:\Users\Administrator\Desktop\Wechat-JSSDK-master - 副本\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.pdb
+C:\Users\Administrator\Desktop\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.dll
+C:\Users\Administrator\Desktop\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.pdb
+C:\Users\Administrator\Desktop\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.dll
+C:\Users\Administrator\Desktop\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.pdb
+G:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.dll
+G:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.pdb
+G:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.csprojResolveAssemblyReference.cache
+G:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.dll
+G:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.pdb
+D:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.dll
+D:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.pdb
+D:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.csprojResolveAssemblyReference.cache
+D:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.dll
+D:\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.pdb
+D:\JianGuo\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.dll
+D:\JianGuo\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\bin\WechatSDK.pdb
+D:\JianGuo\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.csprojResolveAssemblyReference.cache
+D:\JianGuo\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.dll
+D:\JianGuo\CMU\CMU\CMUwap报修\微信企业号JSSDK应用\Wechat-JSSDK-master\WechatSDK\WechatSDK\obj\Release\WechatSDK.pdb
+D:\Lichuanjia\WechatSDK\bin\WechatSDK.dll
+D:\Lichuanjia\WechatSDK\bin\WechatSDK.pdb
+D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.csprojResolveAssemblyReference.cache
+D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.dll
+D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.pdb

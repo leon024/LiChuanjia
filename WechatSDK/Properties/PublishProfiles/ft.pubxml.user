@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAANmyypnG6eU6ZTeEYorkh0QAAAAACAAAAAAAQZgAAAAEAACAAAABY/P3Aa/zX0c+Kc46AgGuQD6UGNC4oKJzvwrXF4OQBSgAAAAAOgAAAAAIAACAAAAD4JRo0WptfgS/HiolZKe+iqjOu+fRYZUpqUxaf75YsBSAAAAAYCKwnFBrkUIc1/dbdILCZbF+LTjD10D2r02JBgVzbG0AAAACXrzIOqESgS407W6nmXP+aItJEF+aGuVHjwIGUcOPe6NBZSqMvdyOU6dakYwRB8L1wIOrHrtlfgIIDhind1ol5</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddLog.aspx">
+      <publishTime>09/24/2016 08:28:16</publishTime>
+    </File>
+    <File Include="Add_Image.aspx">
+      <publishTime>09/25/2016 02:36:37</publishTime>
+    </File>
+    <File Include="Add_RP_Customer.aspx">
+      <publishTime>09/22/2016 09:27:49</publishTime>
+    </File>
+    <File Include="Add_RP_No_Code.aspx">
+      <publishTime>09/22/2016 20:51:15</publishTime>
+    </File>
+    <File Include="Admin.aspx">
+      <publishTime>09/25/2016 13:06:40</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/08/2016 15:38:52</publishTime>
+    </File>
+    <File Include="bin/WechatSDK.dll">
+      <publishTime>09/25/2016 13:18:25</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>09/25/2016 13:05:34</publishTime>
+    </File>
+    <File Include="Del_Log.aspx">
+      <publishTime>09/25/2016 11:58:29</publishTime>
+    </File>
+    <File Include="Finish_Close.aspx">
+      <publishTime>09/20/2016 16:17:55</publishTime>
+    </File>
+    <File Include="ImageShow.aspx">
+      <publishTime>09/16/2016 17:51:26</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>09/25/2016 02:07:37</publishTime>
+    </File>
+    <File Include="JSSDKTest.aspx">
+      <publishTime>09/18/2016 00:54:12</publishTime>
+    </File>
+    <File Include="Log_Edit.aspx">
+      <publishTime>09/25/2016 12:56:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/25/2016 13:18:25</publishTime>
+    </File>
+    <File Include="XMLToken.xml">
+      <publishTime>09/25/2016 00:34:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
