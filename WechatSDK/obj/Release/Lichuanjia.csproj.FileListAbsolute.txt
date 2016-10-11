@@ -1,0 +1,6 @@
+D:\Lichuanjia\WechatSDK\bin\WechatSDK.dll
+D:\Lichuanjia\WechatSDK\bin\WechatSDK.pdb
+D:\Lichuanjia\WechatSDK\obj\Release\Lichuanjia.csprojResolveAssemblyReference.cache
+D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.dll
+D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.pdb
+D:\Lichuanjia\WechatSDK\bin\MySql.Data.dll

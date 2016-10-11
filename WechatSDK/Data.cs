@@ -10,11 +10,18 @@ using System.Text;
 using System.Security.Cryptography;
 using System.Net;
 using System.IO;
+using System.Data.Common;
+using MySql.Data.MySqlClient;
 
 namespace WechatSDK
 {
     public class Data
+
+
     {
+        string connectionString = @"Server=localhost;Database=lichuanjia.cn;Uid=root;Pwd=123654;Port=3306;";
+
+
         public string Get_DateTime()
         {
             DataBase db = new DataBase();
@@ -46,35 +53,52 @@ namespace WechatSDK
 
             string fm = GetMultimedia(ACCESS_TOKEN, FileName);
             fm = fm.Replace("D:\\LeonImage\\", "");
-            DataBase db = new DataBase();
+           
+
+            MySqlConnection con = new MySqlConnection(connectionString);
+            con.Open();
+
+            string sql2 = "insert into Image (FileName,Type,Date,Title,Describe) values('" + fm + "','jpg','" + Get_DateTime() + "','" + Title + "','" + Content + "')";
+
+            string sql = "insert into Image (FileName,Type,Date,Title,ct) values('" + fm + "','jpg','" + Get_DateTime() + "','" + Title + "','" + Content + "')";
+            MySqlCommand mysqlcom = new MySqlCommand(sql, con);
+            mysqlcom.ExecuteNonQuery();
+            mysqlcom.Dispose();
+
+            return "1";
 
 
-            int i = db.RunProc("insert into Image (FileName,Type,Date,Title,Describe) values('" + fm + "','jpg','" + Get_DateTime() + "','" + Title + "','" + Content + "')");
-
-            return i.ToString();
 
         }
         public string Add_Task_Log( string Title, string Content)
         {
 
-          
-            DataBase db = new DataBase();
+
+            MySqlConnection con = new MySqlConnection(connectionString);
+            con.Open();
 
 
-            int i = db.RunProc("insert into Image (Date,Title,Describe) values('" + Get_DateTime() + "','" + Title + "','" + Content + "')");
+            string sql="insert into Image (Date,Title,Describe) values('" + Get_DateTime() + "','" + Title + "','" + Content + "')";
+            MySqlCommand mysqlcom = new MySqlCommand(sql, con);
+            mysqlcom.ExecuteNonQuery();
+            mysqlcom.Dispose();
 
-            return i.ToString();
+            return "1";
 
         }
         public DataSet LogInfo(string LogID)
         {
-            DataBase db = new DataBase();
 
             DataSet ds = new DataSet();
+            MySqlConnection con = new MySqlConnection(connectionString);
+            con.Open();
+            string commStr = "select * FROM Image   WHERE  ID= '" + LogID + "'";
+
+            MySqlDataAdapter myadp = new MySqlDataAdapter(commStr, con); //适配器   
+            myadp.Fill(ds); //将查询到数据填充到数据集  
 
 
-            string selectStr = "select * FROM Image   WHERE  ID= '" + LogID + "' ";
-            ds = db.RunProcReturnDS(selectStr);
+            con.Close();
             return ds;
 
 
@@ -83,24 +107,47 @@ namespace WechatSDK
         {
 
 
-            DataBase db = new DataBase();
+            
+
+            MySqlConnection con = new MySqlConnection(connectionString);
+            con.Open();
 
 
-            int i = db.RunProc("delete from Image where id='"+id+"'");
+            string sql = "delete from Image where id='"+id+"'";
 
-            return i.ToString();
+
+             MySqlCommand mysqlcom = new MySqlCommand(sql, con);
+            mysqlcom.ExecuteNonQuery();
+            mysqlcom.Dispose();
+
+
+            return "1";
+
+
+
 
         }
 
         public string Update_Log(string id,string Title, string cc)
         {
-            DataBase dbs = new DataBase();
-          
-            string selectStr = "update Image set Title='" + Title + "', Describe='" + cc + "'  where ID='" + id + "'";
-            dbs.RunProc(selectStr);
-            dbs.Dispose();
+            
 
-            return "ok";
+
+
+            MySqlConnection con = new MySqlConnection(connectionString);
+            con.Open();
+
+
+            string sql = "update Image set Title='" + Title + "', ct='" + cc + "'  where ID='" + id + "'";
+
+
+            MySqlCommand mysqlcom = new MySqlCommand(sql, con);
+            mysqlcom.ExecuteNonQuery();
+            mysqlcom.Dispose();
+
+
+            return "1";
+
 
         }
         private void MakeThumbnail(string sourcePath, string newPath, int width, int height)
@@ -190,15 +237,20 @@ namespace WechatSDK
         public DataSet Image_List()
         {
 
-            DataBase db = new DataBase();
+            MySqlConnection con = new MySqlConnection(connectionString);
+            con.Open();
 
 
 
             DataSet ds = new DataSet();
 
-            string selectStr2 = "select Top 50 * FROM  Image order by ID desc"; ;
+            string selectStr2 = "select  * FROM  Image order by id desc";
 
-            ds = db.RunProcReturnDS(selectStr2);
+            MySqlDataAdapter myadp = new MySqlDataAdapter(selectStr2, con); //适配器   
+            myadp.Fill(ds); //将查询到数据填充到数据集  
+
+
+            con.Close();
 
             return ds;
 

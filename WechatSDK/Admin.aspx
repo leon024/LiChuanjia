@@ -48,7 +48,7 @@ width:100%;
           
             <br />
            
-            <%# Eval("Describe")%>
+            <%# Eval("ct")%>
             <br />
             <br />
             <div align="right"><%# Eval("Date")%> </div>
