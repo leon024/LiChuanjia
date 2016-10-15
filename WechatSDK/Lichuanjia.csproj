@@ -102,7 +102,6 @@
       <DependentUpon>Admin.aspx</DependentUpon>
     </Compile>
     <Compile Include="Data.cs" />
-    <Compile Include="DataBase.cs" />
     <Compile Include="Del_Log.aspx.cs">
       <DependentUpon>Del_Log.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

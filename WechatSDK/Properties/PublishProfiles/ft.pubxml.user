@@ -33,7 +33,7 @@
       <publishTime>10/15/2016 23:23:56</publishTime>
     </File>
     <File Include="bin/WechatSDK.dll">
-      <publishTime>10/15/2016 23:23:56</publishTime>
+      <publishTime>10/16/2016 01:30:04</publishTime>
     </File>
     <File Include="default.aspx">
       <publishTime>10/15/2016 23:23:56</publishTime>
@@ -57,7 +57,7 @@
       <publishTime>10/15/2016 23:23:56</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>10/16/2016 00:31:51</publishTime>
+      <publishTime>10/16/2016 01:30:15</publishTime>
     </File>
     <File Include="XMLToken.xml">
       <publishTime>10/15/2016 23:23:56</publishTime>

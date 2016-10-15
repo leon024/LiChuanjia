@@ -3,3 +3,8 @@ D:\Lichuanjia\WechatSDK\bin\WechatSDK.pdb
 D:\Lichuanjia\WechatSDK\obj\Debug\Lichuanjia.csprojResolveAssemblyReference.cache
 D:\Lichuanjia\WechatSDK\obj\Debug\WechatSDK.dll
 D:\Lichuanjia\WechatSDK\obj\Debug\WechatSDK.pdb
+D:\git\LiChuanjia\WechatSDK\obj\Debug\Lichuanjia.csprojResolveAssemblyReference.cache
+D:\git\LiChuanjia\WechatSDK\obj\Debug\WechatSDK.dll
+D:\git\LiChuanjia\WechatSDK\bin\WechatSDK.dll
+D:\git\LiChuanjia\WechatSDK\bin\WechatSDK.pdb
+D:\git\LiChuanjia\WechatSDK\obj\Debug\WechatSDK.pdb
