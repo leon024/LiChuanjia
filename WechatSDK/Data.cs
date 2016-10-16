@@ -24,7 +24,7 @@ namespace WechatSDK
 
         public string Get_DateTime()
         {
-            DataBase db = new DataBase();
+          
 
 
 

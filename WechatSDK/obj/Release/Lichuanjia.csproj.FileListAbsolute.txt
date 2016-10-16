@@ -1,6 +1,23 @@
+<<<<<<< HEAD
 D:\Lichuanjia\WechatSDK\bin\WechatSDK.dll
 D:\Lichuanjia\WechatSDK\bin\WechatSDK.pdb
 D:\Lichuanjia\WechatSDK\obj\Release\Lichuanjia.csprojResolveAssemblyReference.cache
 D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.dll
 D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.pdb
 D:\Lichuanjia\WechatSDK\bin\MySql.Data.dll
+=======
+D:\Lichuanjia\WechatSDK\bin\WechatSDK.dll
+D:\Lichuanjia\WechatSDK\bin\WechatSDK.pdb
+D:\Lichuanjia\WechatSDK\obj\Release\Lichuanjia.csprojResolveAssemblyReference.cache
+D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.dll
+D:\Lichuanjia\WechatSDK\obj\Release\WechatSDK.pdb
+D:\Lichuanjia\WechatSDK\bin\MySql.Data.dll
+D:\git\LiChuanjia\WechatSDK\bin\WechatSDK.dll
+D:\git\LiChuanjia\WechatSDK\bin\WechatSDK.pdb
+D:\git\LiChuanjia\WechatSDK\obj\Release\Lichuanjia.csprojResolveAssemblyReference.cache
+D:\git\LiChuanjia\WechatSDK\obj\Release\WechatSDK.dll
+D:\git\LiChuanjia\WechatSDK\obj\Release\WechatSDK.pdb
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
