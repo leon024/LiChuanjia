@@ -18,6 +18,9 @@ D:\git\LiChuanjia\WechatSDK\obj\Release\Lichuanjia.csprojResolveAssemblyReferenc
 D:\git\LiChuanjia\WechatSDK\obj\Release\WechatSDK.dll
 D:\git\LiChuanjia\WechatSDK\obj\Release\WechatSDK.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master

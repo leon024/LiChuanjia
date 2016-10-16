@@ -16,6 +16,9 @@ D:\git\LiChuanjia\WechatSDK\bin\WechatSDK.dll
 D:\git\LiChuanjia\WechatSDK\bin\WechatSDK.pdb
 D:\git\LiChuanjia\WechatSDK\obj\Debug\WechatSDK.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
