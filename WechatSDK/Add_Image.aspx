@@ -8,6 +8,8 @@
         <title>Add Photo</title>
        <link rel="stylesheet" href="./dist/style/weui.css"/>
     <link rel="stylesheet" href="./dist/example/example.css"/>
+        <link rel="apple-touch-icon-precomposed" href="docs/images/apple-touch-icon.png">
+        <link id="data-uikit-theme" rel="stylesheet" href="docs/css/uikit.docs.min.css">
           
 
 
